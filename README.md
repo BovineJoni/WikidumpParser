@@ -47,7 +47,7 @@ The following properties can be changed in the config file:
 _Note: A zipped backup of the outdir contents is made after the processing of each dump file._
 
 ### License
-Stylometric Clustering, Copyright 2014 Daniel Schneider.
+WikidumpParser, Copyright 2014 Daniel Schneider.
 schneider.dnl(at)gmail.com
 
 This program is free software: you can redistribute it and/or modify
